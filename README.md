@@ -68,7 +68,10 @@ Below is a list of images used within the project.
 
     - Employees with 4 to 6 years of experience often work extended hours. 
 - **Branches**: The Egypt branch is seeing a greater number of employees taking unpaid leaves, sick leaves, and working overtime hours than other branches.
-- **Performance ratings**: Employees in the training and green building departments are consistently receiving lower performance evaluations than their counterparts in other areas.
+- **Performance ratings**: 
+    - Employees in the training and green building departments are consistently underperforming compared to their colleagues in other departments.
+    - Due to the relatively inexperienced workforce in the training and green building departments, these departments are experiencing lower pay rates.
+
 - **Pay gap**: The major manufacturing products and environmental health/safety departments are demonstrating a gender pay gap in favor of female employees, with average salaries exceeding those of male employees in other areas.
 
 
