@@ -61,6 +61,15 @@ Below is a list of images used within the project.
 - **Interactive Filters**: Explore the data with dynamic filters and slicers.
 - **Advanced Visuals**: Utilize custom visuals for better data representation.
 
+## Conclusion
+
+- **Overtime Hours**: 
+    - Quality Control, Manufacturing, and Account Management departments have notably high overtime rates.
+
+    - Employees with 4 to 6 years of experience often work extended hours. 
+- **Branches**: The Egypt branch is seeing a greater number of employees taking unpaid leaves, sick leaves, and working overtime hours than other branches.
+- **Performance ratings**: Employees in the training and green building departments are consistently receiving lower performance evaluations than their counterparts in other areas.
+- **Pay gap**: The major manufacturing products and environmental health/safety departments are demonstrating a gender pay gap in favor of female employees, with average salaries exceeding those of male employees in other areas.
 
 
 ## How to Use
