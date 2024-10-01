@@ -70,7 +70,7 @@ Below is a list of images used within the project.
 - **Branches**: The Egypt branch is seeing a greater number of employees taking unpaid leaves, sick leaves, and working overtime hours than other branches.
 - **Performance ratings**: 
     - Employees in the training and green building departments are consistently underperforming compared to their colleagues in other departments.
-    - Due to the relatively inexperienced workforce in the training and green building departments, these departments are experiencing lower pay rates.
+    - Due to the relatively inexperienced workforce in the training and green building departments, these departments are experiencing lower performance rates.
 
 - **Pay gap**: The major manufacturing products and environmental health/safety departments are demonstrating a gender pay gap in favor of female employees, with average salaries exceeding those of male employees in other areas.
 
